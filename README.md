@@ -29,8 +29,7 @@ Install the required dependencies using npm:
    npm install
    ```
 4. **Run the application:**:
-Start the application in development mode:
    ```bash
-   npm start
+   npm run dev
    ```
-This will start the development server and open the app in your default web browser. The app will be running on http://localhost:3000.
+This will start the development server and open the app in your default web browser. The app will be running on http://localhost:5173.
