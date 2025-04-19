@@ -21,7 +21,7 @@ Make sure you have the following installed:
 2. **Navigate into the project directory:**:
 
    ```bash
-   cd app
+   cd To-do-app
    ```
 3. **Install dependencies:**:
 Install the required dependencies using npm:
