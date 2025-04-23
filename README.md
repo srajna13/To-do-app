@@ -18,18 +18,29 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/srajna13/To-do-app.git
    ```
-2. **Navigate into the project directory:**:
+2. **Navigate into the project directory**:
 
    ```bash
    cd To-do-app
    ```
-3. **Install dependencies:**:
+3. **Install dependencies**:
 Install the required dependencies using npm:
    ```bash
    npm install
    ```
-4. **Run the application:**:
+4. **Run the application**:
    ```bash
    npm run dev
    ```
 This will start the development server and open the app in your default web browser. The app will be running on http://localhost:5173.
+
+5 **Screenshots**:
+
+Filter all
+![](src/assets/ss1.png)
+
+Completed tasks:
+![Filtered completed](src/assets/ss2.png)
+
+Pending tasks:
+![Filtered pending](src/assets/ss3.png)
